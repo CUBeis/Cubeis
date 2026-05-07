@@ -74,9 +74,9 @@ I'm an **AI Engineer & Data Scientist** based in Egypt, currently pursuing my BS
 
 <div align="center">
 
-![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CUBeeis&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=1A3A5C&text_color=333333)
+![Stats](https://github-readme-stats.vercel.app/api?username=CUBeeis&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=1A3A5C&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CUBeeis&layout=compact&hide_border=true&title_color=1A3A5C&text_color=333333)
+![Streak](https://streak-stats.demolab.com?user=CUBeeis&hide_border=true&ring=1A3A5C&fire=1A3A5C&currStreakLabel=1A3A5C)
 
 </div>
 
