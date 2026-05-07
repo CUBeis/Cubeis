@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-abdo-47826331b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imzeyad2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Resume-1A3A5C?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Resume-1A3A5C?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1PAS-F5Jhn27Dx1rv5QzRv_4KSK3H3hlk/edit?usp=drive_link&ouid=111629198194440248207&rtpof=true&sd=true)
 
 </div>
 
@@ -74,7 +74,7 @@ I'm an **AI Engineer & Data Scientist** based in Egypt, currently pursuing my BS
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CUBeis&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=1A3A5C&cache_seconds=1800)
+![Activity](https://img.shields.io/github/last-commit/CUBeeis/CUBeeis?label=Last+Updated&color=1A3A5C&style=flat-square)
 
 ![Streak](https://streak-stats.demolab.com?user=CUBeis&hide_border=true&ring=1A3A5C&fire=1A3A5C&currStreakLabel=1A3A5C)
 
