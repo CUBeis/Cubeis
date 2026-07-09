@@ -5,8 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-abdo-47826331b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imzeyad2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Resume-1A3A5C?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1PAS-F5Jhn27Dx1rv5QzRv_4KSK3H3hlk/edit?usp=drive_link&ouid=111629198194440248207&rtpof=true&sd=true)
-
+[![Portfolio](https://img.shields.io/badge/Resume-1A3A5C?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1Q5y_xUZ-SbqlGM8o2s4kyYX9ESdcP6ak/edit?usp=sharing&ouid=111629198194440248207&rtpof=true&sd=true)
 </div>
 
 ---
