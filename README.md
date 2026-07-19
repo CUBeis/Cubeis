@@ -118,17 +118,6 @@ No pretrained backbones, no `nn.MultiheadAttention`. A custom ResNet CNN with sq
 
 ---
 
-## GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=CUBeis&show_icons=true&hide_border=true&title_color=1A3A5C&icon_color=1A3A5C&hide=stars)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CUBeis&layout=compact&hide_border=true&title_color=1A3A5C&langs_count=8)
-
-</div>
-
----
-
 ## Contact
 
 Actively looking for **Junior AI / ML Engineer** roles. I reply fast.
