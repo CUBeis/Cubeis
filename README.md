@@ -112,9 +112,15 @@ No pretrained backbones, no `nn.MultiheadAttention`. A custom ResNet CNN with sq
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=CUBeis&hide_border=true&background=00000000&ring=1A3A5C&fire=1A3A5C&currStreakLabel=1A3A5C&sideLabels=1A3A5C&dates=888888)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CUBeis&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=CUBeis&hide_border=true&background=00000000&stroke=D0D7DE&ring=1A3A5C&fire=1A3A5C&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A3A5C&sideLabels=57606A&dates=6E7681">
+</picture>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUBeis&bg_color=00000000&color=1A3A5C&line=1A3A5C&point=1A3A5C&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CUBeis&bg_color=00000000&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CUBeis&bg_color=00000000&color=1F2328&title_color=1A3A5C&line=1A3A5C&point=1A3A5C&area=true&area_color=1A3A5C&hide_border=true">
+</picture>
 
 </div>
 
