@@ -70,16 +70,6 @@ No pretrained backbones, no `nn.MultiheadAttention`. A custom ResNet CNN with sq
 
 ---
 
-### More
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Emotion Detection System**](https://github.com/CUBeis/Emotion-Detection-System) | NLP classifier benchmarked across multiple ML architectures, with an interactive dashboard | Scikit-learn, Streamlit |
-| [**Zero Risk**](https://github.com/CUBeis/Zero_Risk) | Trilingual (AR/EN/ES) emergency & risk-management platform with locale-based routing | Next.js, TypeScript, Tailwind |
-| [**Collaborative Whiteboard**](https://github.com/CUBeis/collaborative-whiteboard) | Real-time multiplayer infinite canvas — CRDT sync, peer-to-peer, zero backend | React, Yjs, WebRTC, tldraw |
-
----
-
 ## Tech Stack
 
 **AI / ML**
@@ -115,6 +105,18 @@ No pretrained backbones, no `nn.MultiheadAttention`. A custom ResNet CNN with sq
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## Activity
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=CUBeis&hide_border=true&background=00000000&ring=1A3A5C&fire=1A3A5C&currStreakLabel=1A3A5C&sideLabels=1A3A5C&dates=888888)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUBeis&bg_color=00000000&color=1A3A5C&line=1A3A5C&point=1A3A5C&area=true&hide_border=true)
+
+</div>
 
 ---
 
